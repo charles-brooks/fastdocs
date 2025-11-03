@@ -1,3 +1,4 @@
+```mermaid
 flowchart TB
   %% === Ingestion & Preprocessing ===
   subgraph A[Ingestion & Preprocessing]
@@ -38,3 +39,4 @@ flowchart TB
   end
   
   LOOP --> SIG
+```
